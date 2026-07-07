@@ -20,3 +20,4 @@ This folder is a GitHub Pages-ready static website for the bilingual Mastic rese
 - The language switch is built into `index.html`.
 - Scientific names are rendered with a dedicated `.taxon` class.
 - Reference entries include PubMed links.
+- Chios Island visit photos are included in the horizontal photo card section.
